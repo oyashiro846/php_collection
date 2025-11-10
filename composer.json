@@ -14,5 +14,8 @@
             "email": "243130362+oyashiro846@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpstan/phpstan": "^2.1",
+        "phpstan/phpstan-strict-rules": "^2.0"
+    }
 }
